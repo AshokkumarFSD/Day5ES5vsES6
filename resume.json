@@ -1,0 +1,52 @@
+{
+    "name": "Ashokkumar",
+    "designation": "Developer",
+    "experience": "7 years",
+    "mail": "ashokcse94@gmail.com",
+    "qualification": "B.E-CSE",
+    "percentage":"65%",
+    "languages": [
+        "Java",
+        "Java script"
+    ],
+    "tools": [
+        "Android studio",
+        "VS code"
+    ],
+    "dataBase": [
+        "SQlite",
+        "Firebase Realtime Database"
+    ],
+    "project": [
+        {
+            "Title": "Tapo",
+            "Duration": "August 2023 to September 2023",
+            "Role": "Senior Software Engineer",
+            "Description": "Tapo application is used to get the information about the air conditioner of the organization. Users can able to get the information of the air conditioner after successful login. Reminder option available to notify the user about the temperature and humidity when it reaches to certain level."
+        },
+        {
+            "Title": "Acetech RFID Scanner",
+            "Duration": "February 2023 to May 2023",
+            "Role": "Senior Software Engineer",
+            "Description": "Acetech scanner application is used to scan the nearby assets. Using Bluetooth connection application will be connected to the rfid tag reader. Application saves lot of time on manually tracking the assets by providing all assets information in one place. Protects against theft and keep assets up to date on services."
+        },
+        {
+            "Title": "Info Tech Mobile App",
+            "Duration": "February 2020 to April 2022",
+            "Role": "Senior Android Developer",
+            "Description": "Info Tech mobile is an HRMS mobile application. Employee can able to clock in through the mobile app. Employee can apply leave and can able to view other employee leaves in the calendar. Approver can approve/reject the leave request."
+        },
+        {
+            "Title": "Magme Guru",
+            "Duration": "April 2018 to January 2020",
+            "Role": "Android Application Developer",
+            "Description": "Magme Guru Application is developed for the students those who are preparing the Bank, SSC, Railway Exams and etc. The application contains study materials of current affairs, exam syllabus, etc. Timing based Quiz added to improve the student abilities."
+        },
+        {
+            "Title": "INEL",
+            "Duration": "March 2019 to October 2019",
+            "Role": "Android Application Developer",
+            "Description": "INEL Application has been developed as user friendly, which means everyone can easily filter the products which they need. Everyone can be easily notified by INEL's New product introduction, product information and announcements."
+        }
+    ]
+}
